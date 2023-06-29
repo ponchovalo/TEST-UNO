@@ -1,0 +1,393 @@
+[
+  {
+    "Nombre": "LIMPIEZA INTERIOR",
+    "Modelo": "ILBP352DN",
+    "Serie": "NLQA002301",
+    "Ip": "10.222.14.35",
+    "Mac": "d849.2ff9.aa33",
+    "Edificio": "SERVICIOS AL INTERIOR",
+    "Ubicacion": "LIMPIEZA"
+  },
+  {
+    "Nombre": "LAVANDERIA EXTERIOR",
+    "Modelo": "ILBP352DN",
+    "Serie": "NLQA002299",
+    "Ip": "10.222.17.173",
+    "Mac": "d849.2ff9.aa40",
+    "Edificio": "CUARTELES",
+    "Ubicacion": "LAVANDERIA"
+  },
+  {
+    "Nombre": "CAPTURA",
+    "Modelo": "ILBP352DN",
+    "Serie": "NLQA002303",
+    "Ip": "10.222.14.193",
+    "Mac": "d849.2ff9.aa35",
+    "Edificio": "CENTRO MEDICO",
+    "Ubicacion": "LABORATORIO"
+  },
+  {
+    "Nombre": "CONSULTORIOS C",
+    "Modelo": "ILBP352DN",
+    "Serie": "NLQA002825",
+    "Ip": "10.222.17.27",
+    "Mac": "d849.2ff9.afec",
+    "Edificio": "DORMITORIO C",
+    "Ubicacion": "CONSULTORIOS"
+  },
+  {
+    "Nombre": "SERVICIOS MEDICOS",
+    "Modelo": "ILBP352DN",
+    "Serie": "NLQA002826",
+    "Ip": "10.222.39.176",
+    "Mac": "d849.2ff9.afef",
+    "Edificio": "CCO",
+    "Ubicacion": "SERVICIOS MEDICOS"
+  },
+  {
+    "Nombre": "VISITAS TECHUMBRE",
+    "Modelo": "MF525DW",
+    "Serie": "2BH06343",
+    "Ip": "10.222.12.230",
+    "Mac": "00bb.c17a.7a2c",
+    "Edificio": "PREGARITA",
+    "Ubicacion": "VISITAS TECHUMBRE"
+  },
+  {
+    "Nombre": "GUARDA",
+    "Modelo": "MF525DW",
+    "Serie": "2BH06411",
+    "Ip": "10.222.18.21",
+    "Mac": "00bb.c17a.7c12",
+    "Edificio": "ANEXO GARITA",
+    "Ubicacion": "OFICIALIA DE GUARDA"
+  },
+  {
+    "Nombre": "JEFATURA ALMACEN",
+    "Modelo": "MF525DW",
+    "Serie": "2BH06405",
+    "Ip": "10.222.39.230",
+    "Mac": "00bb.c17a.7a35",
+    "Edificio": "ALMACEN GENERAL",
+    "Ubicacion": "JEFATURA"
+  },
+  {
+    "Nombre": "CONSULTORIOS D",
+    "Modelo": "MF525DW",
+    "Serie": "2BH03827",
+    "Ip": "10.222.23.80",
+    "Mac": "00bb.c17a.57ae",
+    "Edificio": "DORMITORIO D",
+    "Ubicacion": "CONSULTORIOS D"
+  },
+  {
+    "Nombre": "PPA",
+    "Modelo": "MF525DW",
+    "Serie": "2BH03553",
+    "Ip": "10.222.18.226",
+    "Mac": "00bb.c17a.5ca5",
+    "Edificio": "SERVICIOS AL INTERIOR",
+    "Ubicacion": "PPA"
+  },
+  {
+    "Nombre": "TIENDA C",
+    "Modelo": "MF525DW",
+    "Serie": "2BH03818",
+    "Ip": "10.222.17.233",
+    "Mac": "00bb.c17a.5a62",
+    "Edificio": "DORMITORIO C",
+    "Ubicacion": "TIENDA C"
+  },
+  {
+    "Nombre": "VIDEOCONFERENCIAS",
+    "Modelo": "MF525DW",
+    "Serie": "2BH03830",
+    "Ip": "10.222.17.142",
+    "Mac": "00bb.c17a.58bc",
+    "Edificio": "DORMITORIO F",
+    "Ubicacion": "VIDEOCONFERENCIAS"
+  },
+  {
+    "Nombre": "LAVANDERIA INTERIOR",
+    "Modelo": "MF525DW",
+    "Serie": "2BH03832",
+    "Ip": "10.222.18.33",
+    "Mac": "00bb.c17a.58bb",
+    "Edificio": "SERVICIOS AL INTERIOR",
+    "Ubicacion": "LAVANDERIA"
+  },
+  {
+    "Nombre": "CONSULTORIOS B",
+    "Modelo": "MF525DW",
+    "Serie": "2BH03822",
+    "Ip": "10.222.17.236",
+    "Mac": "00bb.c17a.58ba",
+    "Edificio": "DORMITORIO B",
+    "Ubicacion": "CONSULTORIOS B"
+  },
+  {
+    "Nombre": "MTTO INTERIOR",
+    "Modelo": "MF525DW",
+    "Serie": "2BH03817",
+    "Ip": "10.222.18.36",
+    "Mac": "00bb.c17a.5f46",
+    "Edificio": "SERVICIOS AL INTERIOR",
+    "Ubicacion": "MANTENIMIENTO"
+  },
+  {
+    "Nombre": "CONSULTORIOS E",
+    "Modelo": "MF525DW",
+    "Serie": "2BH03824",
+    "Ip": "10.222.17.30",
+    "Mac": "00bb.c17a.57ad",
+    "Edificio": "DORMITORIO E",
+    "Ubicacion": "CONSULTORIOS E"
+  },
+  {
+    "Nombre": "OFICINA LABORATORIO",
+    "Modelo": "MF525DW",
+    "Serie": "2BH03823",
+    "Ip": "10.222.14.175",
+    "Mac": "00bb.c17a.57a4",
+    "Edificio": "CENTRO MEDICO",
+    "Ubicacion": "LABORATORIO"
+  },
+  {
+    "Nombre": "CONSULTORIOS A",
+    "Modelo": "MF525DW",
+    "Serie": "2BH06406",
+    "Ip": "10.222.18.15",
+    "Mac": "00bb.c17a.7a80",
+    "Edificio": "DORMITORIO A",
+    "Ubicacion": "CONSULTORIOS A"
+  },
+  {
+    "Nombre": "TECNOLOGIAS CCO",
+    "Modelo": "MF525DW",
+    "Serie": "2BH06400",
+    "Ip": "10.222.39.175",
+    "Mac": "00bb.c17a.7a86",
+    "Edificio": "CCO",
+    "Ubicacion": "OFICINAS DE TECNOLOGIAS"
+  },
+  {
+    "Nombre": "BANCOS",
+    "Modelo": "IRA4545I",
+    "Serie": "2QD06902",
+    "Ip": "10.222.17.247",
+    "Mac": "f80d.609d.f5e3",
+    "Edificio": "ANEXO GARITA",
+    "Ubicacion": "BANCOS"
+  },
+  {
+    "Nombre": "DORMITORIO F",
+    "Modelo": "IRA4545I",
+    "Serie": "2QD07026",
+    "Ip": "10.222.18.227",
+    "Mac": "f80d.609b.58d2",
+    "Edificio": "DORMITORIO F",
+    "Ubicacion": "EPM PLANTA ALTA"
+  },
+  {
+    "Nombre": "DORMITORIO D",
+    "Modelo": "IRA4545I",
+    "Serie": "2QD06919",
+    "Ip": "10.222.12.240",
+    "Mac": "f80d.609b.5616",
+    "Edificio": "DORMITORIO D",
+    "Ubicacion": "EPM PLANTA ALTA"
+  },
+  {
+    "Nombre": "OFICINAS CCO",
+    "Modelo": "IRA4545I",
+    "Serie": "2QD06918",
+    "Ip": "10.222.39.240",
+    "Mac": "f80d.609d.f7f4",
+    "Edificio": "CCO",
+    "Ubicacion": "OFICINAS ADMINISTRATIVAS"
+  },
+  {
+    "Nombre": "MESA DE AYUDA",
+    "Modelo": "IRA4545I",
+    "Serie": "2QD07023",
+    "Ip": "10.222.39.245",
+    "Mac": "f80d.609b.58d3",
+    "Edificio": "CCO",
+    "Ubicacion": "MESA DE AYUDA"
+  },
+  {
+    "Nombre": "JURIDICO",
+    "Modelo": "IRA4545I",
+    "Serie": "2QD06913",
+    "Ip": "10.222.17.243",
+    "Mac": "f80d.609d.f7fb",
+    "Edificio": "EDIFICIO DE GOBIERNO",
+    "Ubicacion": "JURIDICO"
+  },
+  {
+    "Nombre": "CENTRO MEDICO SALA",
+    "Modelo": "IRA4545I",
+    "Serie": "2QD07008",
+    "Ip": "10.222.18.241",
+    "Mac": "f80d.609b.5822",
+    "Edificio": "CENTRO MEDICO",
+    "Ubicacion": "SALA"
+  },
+  {
+    "Nombre": "AREA EDUCATIVA",
+    "Modelo": "IRA4545I",
+    "Serie": "2QD06873",
+    "Ip": "10.222.18.228",
+    "Mac": "f80d.609b.5445",
+    "Edificio": "AREA EDUCATIVA",
+    "Ubicacion": "EPM PLANTA ALTA"
+  },
+  {
+    "Nombre": "RESGUARDO",
+    "Modelo": "IRA4545I",
+    "Serie": "2QD07024",
+    "Ip": "10.222.17.179",
+    "Mac": "f80d.609d.fa33",
+    "Edificio": "EDIFICIO DE GOBIERNO",
+    "Ubicacion": "RESGUARDO"
+  },
+  {
+    "Nombre": "DORMITORIO C",
+    "Modelo": "IRA4545I",
+    "Serie": "2QD06916",
+    "Ip": "10.222.13.241",
+    "Mac": "f80d.609d.f7fa",
+    "Edificio": "DORMITORIO C",
+    "Ubicacion": "EPM PLANTA ALTA"
+  },
+  {
+    "Nombre": "FINANCIEROS",
+    "Modelo": "IRA4545I",
+    "Serie": "2QD07029",
+    "Ip": "10.222.17.244",
+    "Mac": "f80d.609d.fb06",
+    "Edificio": "EDIFICIO DE GOBIERNO",
+    "Ubicacion": "FINANCIEROS"
+  },
+  {
+    "Nombre": "ADMINISTRACION",
+    "Modelo": "IRA4545I",
+    "Serie": "2QD06914",
+    "Ip": "10.222.17.249",
+    "Mac": "f80d.609b.5614",
+    "Edificio": "EDIFICIO DE TORREON",
+    "Ubicacion": "ADMINISTRACION"
+  },
+  {
+    "Nombre": "TRABAJO SOCIAL",
+    "Modelo": "IRA4545I",
+    "Serie": "2QD07006",
+    "Ip": "10.222.18.72",
+    "Mac": "f80d.609e.04d2",
+    "Edificio": "ANEXO GARITA",
+    "Ubicacion": "TRABAJO SOCIAL"
+  },
+  {
+    "Nombre": "CENTRO MEDICO JEFATURA",
+    "Modelo": "IRA4545I",
+    "Serie": "2QD07018",
+    "Ip": "10.222.17.229",
+    "Mac": "f80d.609d.f9be",
+    "Edificio": "CENTRO MEDICO",
+    "Ubicacion": "JEFATURA"
+  },
+  {
+    "Nombre": "ARCHIVO JURIDICO",
+    "Modelo": "IRA4545I",
+    "Serie": "2QD07021",
+    "Ip": "10.222.17.246",
+    "Mac": "f80d.609b.57c2",
+    "Edificio": "EDIFICIO DE GOBIERNO",
+    "Ubicacion": "ARCHIVO JURIDICO"
+  },
+  {
+    "Nombre": "DORMITORIO A",
+    "Modelo": "IRA4545I",
+    "Serie": "2QD06871",
+    "Ip": "10.222.12.104",
+    "Mac": "f80d.609d.f5c5",
+    "Edificio": "DORMITORIO A",
+    "Ubicacion": "EPM PLANTA ALTA"
+  },
+  {
+    "Nombre": "DORMITORIO B",
+    "Modelo": "IRA4545I",
+    "Serie": "2QD07226",
+    "Ip": "10.222.14.240",
+    "Mac": "f80d.609b.5b31",
+    "Edificio": "DORMITORIO B",
+    "Ubicacion": "EPM PLANTA ALTA"
+  },
+  {
+    "Nombre": "DORMITORIO E",
+    "Modelo": "IRA4545I",
+    "Serie": "2QD06915",
+    "Ip": "10.222.17.163",
+    "Mac": "f80d.609b.5613",
+    "Edificio": "DORMITORIO E",
+    "Ubicacion": "EPM PLANTA ALTA"
+  },
+  {
+    "Nombre": "SEGURIDAD",
+    "Modelo": "IRA4545I",
+    "Serie": "2QD06901",
+    "Ip": "10.222.17.239",
+    "Mac": "f80d.609b.543e",
+    "Edificio": "EDIFICIO DE GOBIERNO",
+    "Ubicacion": "SEGURIDAD"
+  },
+  {
+    "Nombre": "COMUNICACIÓN CCO",
+    "Modelo": "C356IF",
+    "Serie": "2QC07011",
+    "Ip": "10.222.39.18",
+    "Mac": "7438.b7a7.6fd4",
+    "Edificio": "CCO",
+    "Ubicacion": "COMUNICACIÓN"
+  },
+  {
+    "Nombre": "INFORMATICA",
+    "Modelo": "C356IF",
+    "Serie": "2QC06969",
+    "Ip": "10.222.17.240",
+    "Mac": "7438.b7a7.6f6c",
+    "Edificio": "EDIFICIO DE GOBIERNO",
+    "Ubicacion": "INFORMATICA"
+  },
+  {
+    "Nombre": "DIRECCION GENERAL OFICINA",
+    "Modelo": "C356IF",
+    "Serie": "2QC06968",
+    "Ip": "10.222.17.238",
+    "Mac": "7438.b7a7.0b12",
+    "Edificio": "EDIFICIO DE GOBIERNO",
+    "Ubicacion": "DIRECCION GENERAL"
+  },
+  {
+    "Nombre": "ASISTENTE DIRECCION CCO",
+    "Modelo": "C356IF",
+    "Serie": "2QC06700",
+    "Ip": "10.222.39.212",
+    "Mac": "7438.b7a7.a9b5",
+    "Edificio": "CCO",
+    "Ubicacion": "ASISTENTE DIRECCION"
+  },
+  {
+    "Nombre": "DIRECCION GENERAL",
+    "Modelo": "C356IF",
+    "Serie": "2QC07007",
+    "Ip": "10.222.17.241",
+    "Mac": "7438.b7a7.6fd0",
+    "Edificio": "EDIFICIO DE GOBIERNO",
+    "Ubicacion": "DIRECCION GENERAL"
+  }
+]
+ 
+
+
+
